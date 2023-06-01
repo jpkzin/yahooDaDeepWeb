@@ -1,4 +1,3 @@
-//Importando o sequelize
 const Sequelize = require('sequelize');
 
 const connection = new Sequelize('yahoodeepweb','root', 'Enatal789_',{
