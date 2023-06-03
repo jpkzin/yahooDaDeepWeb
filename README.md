@@ -2,7 +2,7 @@
 
 O projeto "yahoo da deep-web" se trata de um sistema simples de perguntas e repostas inspirado no yahoo e desenvolvido em Node.js. 
 
-<style="font-weight: bold">Funcionalidades</style>
+<strong style="font-weight: bold">Funcionalidades</strong>
 
 Os usuários podem criar novas perguntas.
 
